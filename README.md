@@ -1,10 +1,17 @@
-# game615-spring2023-midterm
- Midterm 2023
+# Midterm Game615 Spring 2023
 
- Hamburger by jeremy [CC-BY] via Poly Pizza
+[Play it here!](https://www.example.com)
 
- Frog by jeremy [CC-BY] via Poly Pizza
+Sources:
 
- Mushnub byQuaternius
+Hamburger by jeremy [CC-BY] via Poly Pizza
 
- Sound Effect by eritnhut1992 from Pixabay
+
+Frog by jeremy [CC-BY] via Poly Pizza
+
+
+Mushnub by Quaternius
+
+
+Sound Effect by eritnhut1992 from Pixabay
+
