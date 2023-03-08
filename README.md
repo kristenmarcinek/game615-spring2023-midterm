@@ -1,6 +1,6 @@
 # Midterm Game615 Spring 2023
 
-[Play it here!](https://www.example.com)
+[Play it here!](https://marcinek.tech/game615-spring2023-midterm/play)
 
 Sources:
 
