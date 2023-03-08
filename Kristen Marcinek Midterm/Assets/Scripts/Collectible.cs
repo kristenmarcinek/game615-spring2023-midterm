@@ -15,4 +15,12 @@ public class Collectible : MonoBehaviour
     {
         transform.Rotate(new Vector3(15, 30, 45) * Time.deltaTime);
     }
+
+    private void OnTriggerEnter(Collider other) {
+        if (other.gameObject.CompareTag("Player")) 
+        {
+            GameManager.score += 1;
+            Destroy(gameObject);
+        }
+    }
 }
